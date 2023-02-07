@@ -9,5 +9,6 @@ img{
 }
 
 .canvas .pic{
-    flex-direction: row;
+    margin: 0 auto;
+    padding: 10px;
 }
