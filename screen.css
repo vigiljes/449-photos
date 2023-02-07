@@ -2,3 +2,12 @@ img{
     width: 100%;
     margin: 0 auto;
 }
+
+.canvas{
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.canvas .pic{
+    flex-direction: row;
+}
