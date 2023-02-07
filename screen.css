@@ -3,9 +3,18 @@ img{
     margin: 0 auto;
 }
 
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+}
+body{
+    background-color: navy;
+}
+
 .canvas{
     margin: 0 auto;
     padding: 100px;
+    background-color: orange;
 }
 
 .canvas .pic{
